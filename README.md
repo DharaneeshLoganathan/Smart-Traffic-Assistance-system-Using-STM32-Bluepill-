@@ -1,0 +1,2 @@
+# Smart-Traffic-Assistance-system-Using-STM32-Bluepill-
+RTOS-based intelligent traffic signal controller using STM32 Blue Pill (STM32F103C8T6) and FreeRTOS. The system dynamically adjusts green signal timing based on simulated traffic density using push buttons. Built with Embedded C and STM32CubeIDE, featuring a modular state machine architecture with scope for TinyML, IoT, and smart city integration.
